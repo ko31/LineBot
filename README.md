@@ -32,3 +32,7 @@ $bot->sendText('「%s」デスネ...');
 $bot->sendImage($ACCOUNT_KEY);
 
 ```
+
+## 参考URL
+
+* [LINE BOT APIを使ってPHPで画像検索BOT作ってみました | rui live note](http://blog.ko31.com/201604/line-bot-api-php/)
